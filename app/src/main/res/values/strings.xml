@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Candy Coded</string>
+    <string name="temp_title">TempText</string>
+    <string name="products_title">Products</string>
+</resources>
